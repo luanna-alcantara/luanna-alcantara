@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Luanna Alcantara 👋
 
-<!--
-**luanna-alcantara/luanna-alcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. I'm studying Web Development At [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- 📡 Backend: `Nodejs`
+- 🖥️ Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- :art: Layout Design: `Figma`
+- :pushpin: Version Code Control: `Git & Github`
+- :hammer: Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📧 Email: luanna_alcantara@outlook.com
+- 👤 LinkedIn: https://www.linkedin.com/in/luanna-alcantara-barros/
